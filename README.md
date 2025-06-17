@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shibbir Asif
 
-I'm a seasoned full-stack software developer with 11+ years of experience in Java, Spring, Micronaut, Ruby on Rails, React, and TypeScript.
+I'm a seasoned full-stack software developer with 12+ years of experience in Java, Spring, Micronaut, Ruby on Rails, React, and TypeScript.
 
 - 🔍 I'm currently open to new job opportunities — let's connect!
 - 💼 Previously led frontend architecture and microservice migration at [IdeaScale](https://ideascale.com)
